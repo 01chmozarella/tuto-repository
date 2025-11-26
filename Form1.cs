@@ -40,6 +40,7 @@ namespace Gabanete_FirstLabExam
             };
 
             MessageBox.Show($"Monthly Salary is {reg.CalculateSalary()}");
+            MessageBox.Show("Pait pa sir");
         }
 
         private void btnContractualEmployee_Click(object sender, EventArgs e)
