@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\models\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:models\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\models\\regularemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:models\\regularemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\interface\\ileaveapprover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:interface\\ileaveapprover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\repository\\mysqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:repository\\mysqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|c:\\users\\student\\documents\\gabanete\\gabanete_firstlabexam\\models\\contractualemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420F783-6413-4C55-AA83-186D75E4422B}|Gabanete_FirstLabExam.csproj|solutionrelative:models\\contractualemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAEwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:16:31.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegularEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\RegularEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\RegularEmployee.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\RegularEmployee.cs",
+              "RelativeToolTip": "Models\\RegularEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:58:31.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:55:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:56:05.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\EmployeeManager.cs",
+              "RelativeToolTip": "Models\\EmployeeManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:07:44.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:43:16.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:50:06.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILeaveApprover.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Interface\\ILeaveApprover.cs",
+              "RelativeDocumentMoniker": "Interface\\ILeaveApprover.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Interface\\ILeaveApprover.cs",
+              "RelativeToolTip": "Interface\\ILeaveApprover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:05:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Interface\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:06:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MySqlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Repository\\MySqlRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MySqlRepository.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Repository\\MySqlRepository.cs",
+              "RelativeToolTip": "Repository\\MySqlRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:10:22.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\Manager.cs",
+              "RelativeToolTip": "Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:14:40.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractualEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\ContractualEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\ContractualEmployee.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Gabanete\\Gabanete_FirstLabExam\\Models\\ContractualEmployee.cs",
+              "RelativeToolTip": "Models\\ContractualEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:03:12.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

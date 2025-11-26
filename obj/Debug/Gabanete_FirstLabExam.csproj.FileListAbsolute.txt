@@ -1,0 +1,10 @@
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\bin\Debug\Gabanete_FirstLabExam.exe.config
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\bin\Debug\Gabanete_FirstLabExam.exe
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\bin\Debug\Gabanete_FirstLabExam.pdb
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\obj\Debug\Gabanete_FirstLabExam.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\obj\Debug\Gabanete_FirstLabExam.Form1.resources
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\obj\Debug\Gabanete_FirstLabExam.Properties.Resources.resources
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\obj\Debug\Gabanete_FirstLabExam.csproj.GenerateResource.cache
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\obj\Debug\Gabanete_FirstLabExam.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\obj\Debug\Gabanete_FirstLabExam.exe
+C:\Users\student\Documents\Gabanete\Gabanete_FirstLabExam\obj\Debug\Gabanete_FirstLabExam.pdb
