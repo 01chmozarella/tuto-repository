@@ -40,7 +40,8 @@ namespace Gabanete_FirstLabExam
             };
 
             MessageBox.Show($"Monthly Salary is {reg.CalculateSalary()}");
-            MessageBox.Show("Pait pa sir");
+            MessageBox.Show("Testing github updates");
+            MessageBox.Show("Testing github updates");
         }
 
         private void btnContractualEmployee_Click(object sender, EventArgs e)
